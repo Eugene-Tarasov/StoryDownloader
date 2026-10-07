@@ -2,7 +2,7 @@
 
 Free Windows desktop beta for saving Telegram stories available to your account. Independent client, not affiliated with Telegram. Closed-source application.
 
-**[Download the Windows beta](https://github.com/Eugene-Tarasov/StoryDownloader/releases/latest)** · **[Русская инструкция](README-RU.md)** · **[Report a problem](https://github.com/Eugene-Tarasov/StoryDownloader/issues)**
+**[Download the Windows beta](https://github.com/Eugene-Tarasov/StoryDownloader/releases/tag/v0.1.0-beta.1)** · **[Русская инструкция](README-RU.md)** · **[Report a problem](https://github.com/Eugene-Tarasov/StoryDownloader/issues)**
 
 Download the ZIP from Releases, extract the entire archive and run StoryDownloader.exe. No Python installation is required. You need your own Telegram API ID and API Hash; the application includes API setup help.
 
